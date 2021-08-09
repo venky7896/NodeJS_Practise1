@@ -1,6 +1,6 @@
-const greetings = (name) => {
+kconst greetings = (name) => {
   console.log(`Hello ${name}`);
 };
 
-greetings("Raju");
+greetings("Venky");
 greetings("Abhi");
